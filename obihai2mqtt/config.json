@@ -1,6 +1,10 @@
 {
   "name": "obihai2mqtt",
   "version": "1.0-1",
+  "arch": [
+    "amd64",
+    "armhf"
+  ],
   "slug": "obihai2mqtt",
   "description": "Forward obihai lines states to MQTT.",
   "startup": "after",
